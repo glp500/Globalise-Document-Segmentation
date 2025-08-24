@@ -160,13 +160,6 @@ The **Dutch East India Company (VOC)** produced extensive administrative records
 - Legal documents
 - Ships' logs and inventories
 
-### Document Types
-Historical documents in the dataset include:
-- **Letters**: Official and personal correspondence
-- **Newspapers**: Colonial period publications
-- **Administrative records**: Trade, legal, and governmental documents
-- **Inventories**: Cargo and property listings
-
 ## 💻 Technical Requirements
 
 ### Minimum Requirements
