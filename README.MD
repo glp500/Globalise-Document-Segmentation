@@ -207,16 +207,6 @@ The **Dutch East India Company (VOC)** produced extensive administrative records
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is part of the TANAP digitization initiative. Please respect the historical nature of the source materials and cite appropriately in academic work.
-
-## 🙏 Acknowledgments
-
-- **TANAP Project**: For digitizing and providing access to VOC archives
-- **Dutch National Archives**: For preserving and maintaining historical documents
-- **Dutch Historians**: For creating detailed annotations using the Laypa tool
-- **Laypa Team**: For developing the annotation platform
 
 ## 📚 Citation
 
